@@ -1,0 +1,32 @@
+# Token Monitoring System - Railway Deployment Ready
+# Copied from WORKING system requirements - July 30, 2025
+
+cachetools>=6.1.0
+aiohttp>=3.12.13
+base58>=2.1.1
+beautifulsoup4>=4.13.4
+brotli>=1.1.0
+cryptography>=45.0.5
+discord-py>=2.5.2
+discord-webhook>=1.4.1
+flask>=3.1.1
+fuzzywuzzy>=0.18.0
+httpx>=0.28.1
+lxml>=5.4.0
+psutil>=7.0.0
+psycopg2-binary>=2.9.10
+pycryptodome>=3.23.0
+pynacl>=1.5.0
+python-levenshtein>=0.27.1
+pyppeteer>=0.0.25
+requests>=2.32.4
+requests-html>=0.10.0
+selenium>=4.34.2
+solana>=0.36.7
+solders>=0.26.0
+trafilatura>=2.0.0
+waitress>=3.0.2
+webdriver-manager>=4.0.2
+websocket>=0.2.1
+websocket-client>=1.8.0
+websockets>=15.0.1
